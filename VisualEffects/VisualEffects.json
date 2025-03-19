@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "path": "",
+        "imgPath": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/VisualEffects/R3P-Boss-spawn-VFX.webm"
+    },
+    {
+        "path": "",
+        "imgPath": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/VisualEffects/Spaceship%20Thrusters.webm"
+    },
+    {
+        "path": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/VisualEffects/Unreal%20Crystal.webm",
+        "imgPath": ""
+    },
+    {
+        "path": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/VisualEffects/ZeldaTeleportRecreation.webm",
+        "imgPath": ""
+    }
+]
