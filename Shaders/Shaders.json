@@ -23,5 +23,10 @@
         "path": "",
         "imgPath": "",
         "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/UnityWaterShader.mp4"
+    },
+    {
+        "path": "https://www.youtube.com/watch?v=SEROOfBpsCg&feature=youtu.be",
+        "imgPath": "https://github.com/fr4ct1ons/portfolio-contents/blob/main/Shaders/UnrealCelShader.jpg?raw=true",
+        "webmPath": ""
     }
 ]
