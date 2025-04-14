@@ -5,8 +5,8 @@
         "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/LiquidSim.webm"
     },
     {
-        "path": "",
-        "imgPath": "https://fr4ct1ons.github.io/vfx/unreal-sdf-lava-lamp/",
+        "path": "https://fr4ct1ons.github.io/vfx/unreal-sdf-lava-lamp/",
+        "imgPath": "",
         "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/Unreal%20Lava%20Lamp.webm"
     },
     {
