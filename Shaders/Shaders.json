@@ -1,12 +1,27 @@
 [
     {
-        "path": "",
+        "path": "https://www.artstation.com/artwork/lGyOGz",
         "imgPath": "",
         "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/LiquidSim.webm"
     },
     {
         "path": "",
-        "imgPath": "",
+        "imgPath": "https://fr4ct1ons.github.io/vfx/unreal-sdf-lava-lamp/",
         "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/Unreal%20Lava%20Lamp.webm"
+    },
+    {
+        "path": "https://fr4ct1ons.github.io/vfx/cyberpunk-camera-zoom-recreation/",
+        "imgPath": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/Cyberpunk%20Zoom%20Recreation.webm"
+    },
+    {
+        "path": "https://www.artstation.com/artwork/a00YKX",
+        "imgPath": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/UnityCelShader.mp4"
+    },
+    {
+        "path": "",
+        "imgPath": "",
+        "webmPath": "https://github.com/fr4ct1ons/portfolio-contents/raw/refs/heads/main/Shaders/UnityWaterShader.mp4"
     }
 ]
